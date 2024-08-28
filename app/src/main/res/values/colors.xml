@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_primary">#64DD17</color>
+    <color name="change_up">#16C784</color>
+    <color name="change_down">#EA3943</color>
+    <color name="chart">#039BE5</color>
+</resources>
